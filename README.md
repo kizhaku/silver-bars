@@ -7,7 +7,7 @@ Register an order.
     order quantity (e.g.: 3.5 kg) 
     price per kg (e.g.: £303) 
     order type: BUY or SELL 
-    Cancel a registered order - this will remove the order from 'Live Order Board' 
+Cancel a registered order - this will remove the order from 'Live Order Board' 
 Get summary information of live orders (see explanation below) 
     Imagine we have received the following orders: 
     a) SELL: 3.5 kg for £306 [user1] 

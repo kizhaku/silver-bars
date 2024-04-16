@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>com.learn</groupId>
 	<artifactId>silverbars</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>.1</version>
 	<name>silverbars</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Silver Bars Marketplace</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -46,6 +46,11 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+			<version>2.10.1</version>
 		</dependency>
 	</dependencies>
 
